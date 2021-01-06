@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26490e08-8f95-441a-a50e-9edd05137fb1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/LAB2/BasicDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB2/BasicJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB2/BasiclnputData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB2/Exercise_STD_Profile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_if.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_if_else_if.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LAB1/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LAB1/HelloWorld.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mgbNkbxxyIW5iebD2uAVwkJaG3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.BasicDataType">
+    <configuration name="BasicDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LAB2.BasicDataType" />
+      <module name="OOP_2563_362211760014" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LAB2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LAB1.HelloWorld" />
+      <module name="OOP_2563_362211760014" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LAB1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BasicDataType" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26490e08-8f95-441a-a50e-9edd05137fb1" name="Default Changelist" comment="" />
+      <created>1609918143181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609918143181</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

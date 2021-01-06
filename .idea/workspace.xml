@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26490e08-8f95-441a-a50e-9edd05137fb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LAB2/BasicDataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB2/BasicJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB2/BasiclnputData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB2/Exercise_STD_Profile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_if.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_if_else_if.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_switch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LAB1/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LAB1/HelloWorld.java" afterDir="false" />
+    <list default="true" id="26490e08-8f95-441a-a50e-9edd05137fb1" name="Default Changelist" comment="lab">
+      <change afterPath="$PROJECT_DIR$/src/LAB3/soraya.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.BasicDataType">
+  <component name="RunManager" selected="Application.soraya">
     <configuration name="BasicDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LAB2.BasicDataType" />
       <module name="OOP_2563_362211760014" />
@@ -67,8 +61,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="soraya" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LAB3.soraya" />
+      <module name="OOP_2563_362211760014" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LAB3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.soraya" />
         <item itemvalue="Application.BasicDataType" />
         <item itemvalue="Application.HelloWorld" />
       </list>
@@ -83,6 +91,14 @@
       <option name="presentableId" value="Default" />
       <updated>1609918143181</updated>
     </task>
+    <task id="LOCAL-00001" summary="lab">
+      <created>1609922184447</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609922184447</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,5 +111,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab" />
   </component>
 </project>

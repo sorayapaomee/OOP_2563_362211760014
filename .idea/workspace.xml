@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26490e08-8f95-441a-a50e-9edd05137fb1" name="Default Changelist" comment="lab">
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_do_while.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_for.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_for2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_nested_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_while.java" afterDir="false" />
+    <list default="true" id="26490e08-8f95-441a-a50e-9edd05137fb1" name="Default Changelist" comment="example">
+      <change afterPath="$PROJECT_DIR$/src/LAB4/ex_checknumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB4/ex_login_system.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB4/ex_method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB4/ex_overload_method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_array2D.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exportToHTML/LAB1/HelloWorld.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exportToHTML/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609927694070</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="example">
+      <created>1610280022828</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610280022828</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +149,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab" />
+    <MESSAGE value="example" />
+    <option name="LAST_COMMIT_MESSAGE" value="example" />
   </component>
 </project>

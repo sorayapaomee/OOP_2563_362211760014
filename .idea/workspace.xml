@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26490e08-8f95-441a-a50e-9edd05137fb1" name="Default Changelist" comment="example">
-      <change afterPath="$PROJECT_DIR$/src/LAB4/ex_checknumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB4/ex_login_system.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB4/ex_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB4/ex_overload_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_array2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_array2D.java" afterDir="false" />
+    <list default="true" id="26490e08-8f95-441a-a50e-9edd05137fb1" name="Default Changelist" comment="array">
+      <change afterPath="$PROJECT_DIR$/src/LAB5/Exercise_Lab5_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB6/ex_String1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB6/ex_StringToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB7/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB7/StudentApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610280022828</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="array">
+      <created>1610981736744</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610981736744</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +155,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lab" />
     <MESSAGE value="example" />
-    <option name="LAST_COMMIT_MESSAGE" value="example" />
+    <MESSAGE value="array" />
+    <option name="LAST_COMMIT_MESSAGE" value="array" />
   </component>
 </project>

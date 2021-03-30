@@ -10,13 +10,18 @@ public class Employee extends Person {
     public Employee() {
     }
 
-    public Employee(String pid, String name, int age, String gender, String tel, String empID, String position, double salary) {
+    public Employee(String pid, String name
+            , int age, String gender, String tel,
+                    String empID, String position,
+                    double salary) {
+
+        // calling constructor of super-class
         super(pid, name, age, gender, tel);
+
         this.empID = empID;
         this.position = position;
         this.salary = salary;
     }
-
     //getter and setter
 
     public String getEmpID() {
@@ -51,6 +56,8 @@ public class Employee extends Person {
                 "empID='" + empID + '\'' +
                 ", position='" + position + '\'' +
                 ", salary=" + salary +
-                '}';
+                "} " + super.toString();
     }
+
+
 }
